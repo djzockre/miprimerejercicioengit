@@ -15,3 +15,6 @@ function myFunction() {
 cambio en el js para pasarlo a la otra rama
 
 cambio para el reset
+
+
+cambio nuevo
